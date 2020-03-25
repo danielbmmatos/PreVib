@@ -14,7 +14,7 @@ Clique nos links para abrir o *Nbviewer*
 
 ### Aula 4 - [Vibração livre não-amortecida](https://nbviewer.jupyter.org/github/danielbmmatos/Pre-Vibracoes/blob/master/Aula%204-%20VIbracao%20livre.ipynb)
 
-### Aula 5 - [Amortecimento viscoso](https://nbviewer.jupyter.org/github/danielbmmatos/PreVib/blob/master/Aula%205-%20Amortecimento%20viscoso.ipynb)
+### Aula 5 - [Amortecimento viscoso]()
 
-### Aula 6 - [Vibração forçada](https://nbviewer.jupyter.org/github/danielbmmatos/PreVib/blob/master/Aula%206%20-%20Vibração%20forçada.ipynb)
+### Aula 6 - [Vibração forçada]()
 
