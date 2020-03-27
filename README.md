@@ -16,5 +16,5 @@ Clique nos links para abrir o *Nbviewer*
 
 ### Aula 5 - [Amortecimento viscoso](https://nbviewer.jupyter.org/github/danielbmmatos/PreVib/blob/master/Aula%205-%20Amortecimento%20viscoso.ipynb)
 
-### Aula 6 - [Vibração forçada]()
+### Aula 6 - [Vibração forçada](https://nbviewer.jupyter.org/github/danielbmmatos/PreVib/blob/master/Aula%206%20-%20Vibracao%20forcada.ipynb)
 
