@@ -6,7 +6,7 @@ Clique nos links para abrir o *Nbviewer*
 
 ### Aula 0 - [Revisão](https://nbviewer.jupyter.org/github/danielbmmatos/PreVib/blob/master/Aula%200%20-%20Revis%C3%A3o.ipynb)
 
-### Aula 1 - [Introdução](https://nbviewer.jupyter.org/github/danielbmmatos/Pre-Vibracoes/blob/master/Aula%201%20-%20Introdu%C3%A7%C3%A3o.ipynb)
+### Aula 1 - [Introdução](https://nbviewer.jupyter.org/github/danielbmmatos/PreVib/blob/d467c3bb84aec814e3d3d06c3cad284ff9263f6a/Aula%201%20-%20Introdu%C3%A7%C3%A3o.ipynb)
 
 ### Aula 2 - [Elementos de Mola](https://nbviewer.jupyter.org/github/danielbmmatos/PreVib/blob/master/Aula%202-%20Elementos%20de%20mola.ipynb)
 
